@@ -1,0 +1,15 @@
+student     = zilongg
+target_id   = 48
+target_type = c
+level       = 0
+-->8--
+FAIL: Ouch!: You caused a segmentation fault!
+Better luck next time.
+-->8--
+48 C7 C7 45 32 2A 1C C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 D0 30 64 55 00 00 00 00 CE 2B 40 
+-->8--
+Previous Scores for 18213-m24:attacklab
+
+| version | phase1 (10.0) | phase2 (25.0) | phase3 (25.0) | phase4 (35.0) | phase5 (5.0) | 
++---------+---------------+---------------+---------------+---------------+--------------+
+|       3 |          10.0 |           0.0 |           0.0 |           0.0 |          0.0 | 
